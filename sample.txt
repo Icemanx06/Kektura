@@ -1,0 +1,4 @@
+Peter;Badacsonytordemic-Nagyvazsony;Putnok-Bodvaszilas
+Gabor;Bodvaszilas-Putnok;Becske-Nograd
+Nikolett;Nograd-Becske;Huvosvolgy-Piliscsaba;Sarvar-Sumeg
+Aron;Sumeg-Sarvar;Dobogoko-Visegrad
